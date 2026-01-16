@@ -94,27 +94,6 @@ The main goals of this project are:
 * Kubernetes namespaces for logical separation
 
 ---
-
-## **📁 File Structure (Example)**
-
-```
-.
-├── nginx/
-│   └── Dockerfile
-├── django-notes/
-│   ├── Dockerfile
-│   └── app/
-├── k8s-manifests/
-│   ├── deployment.yaml
-│   ├── service.yaml
-│   └── ingress.yaml
-└── monitoring/
-    ├── prometheus.yaml
-    └── grafana.yaml
-```
-
----
-
 ## **📌 Key Learnings**
 
 ✔ Containerization with Docker
